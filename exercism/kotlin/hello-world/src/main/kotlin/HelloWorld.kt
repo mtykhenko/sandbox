@@ -1,3 +1,3 @@
 fun hello(name: String = ""): String {
-   return ""
+    return "Hello, ${if (name.isBlank()) "World" else name.trim()}!"
 }

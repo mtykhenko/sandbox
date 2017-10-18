@@ -3,3 +3,8 @@
 **/.nrepl-port
 **/*.iml
 **/target/**
+**/out/**
+**/build/**
+**/gradle/**
+**/.gradle/**
+**/gradlew*
