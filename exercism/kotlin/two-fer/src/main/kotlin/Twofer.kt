@@ -1,0 +1,1 @@
+fun twofer(input: String = "you") = "One for ${input.trim()}, one for me."
