@@ -1,0 +1,5 @@
+**/.idea/**
+**/.lein-failures
+**/.nrepl-port
+**/*.iml
+**/target/**
