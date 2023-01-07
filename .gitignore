@@ -11,3 +11,5 @@
 **/node_modules/**
 **/yarn.lock
 **/.exercism/**
+**/exercism-env/**
+**/__pycache__/**
