@@ -13,3 +13,4 @@
 **/.exercism/**
 **/exercism-env/**
 **/__pycache__/**
+**/.articles/**
