@@ -14,3 +14,5 @@
 **/exercism-env/**
 **/__pycache__/**
 **/.articles/**
+**/.vscode/**
+.DS_Store
