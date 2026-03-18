@@ -102,5 +102,4 @@ def can_double_down(card_one, card_two):
 
     total = value_of_card(card_one) + value_of_card(card_two)
     return 9 <= total <= 11
-
-# Made with Bob
+    

@@ -92,5 +92,3 @@ def perfect_score(student_info):
         if student[1] == 100:
             return student
     return []
-
-# Made with Bob

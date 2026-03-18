@@ -76,4 +76,3 @@ def update_store_inventory(fulfillment_cart, store_inventory):
                 store_inventory[item][0] = new_stock
     return store_inventory
 
-# Made with Bob

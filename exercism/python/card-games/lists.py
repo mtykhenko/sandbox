@@ -84,5 +84,4 @@ def maybe_double_last(hand):
         hand[-1] = 22
     
     return hand
-
-# Made with Bob
+    
