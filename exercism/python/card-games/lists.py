@@ -57,7 +57,7 @@ def approx_average_is_average(hand):
     first_last_average = (hand[0] + hand[-1]) / 2
     middle_card = hand[len(hand) // 2]
     
-    return first_last_average == true_average or middle_card == true_average
+    return true_average in (first_last_average, middle_card)
 
 
 def average_even_is_average_odd(hand):
