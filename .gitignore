@@ -15,4 +15,5 @@
 **/__pycache__/**
 **/.articles/**
 **/.vscode/**
-.DS_Store.bob/
+.DS_Store
+.bob/
