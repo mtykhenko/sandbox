@@ -16,4 +16,4 @@
 **/.articles/**
 **/.vscode/**
 .DS_Store
-.bob/
+**/.bob/
